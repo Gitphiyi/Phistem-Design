@@ -36,3 +36,7 @@
 - Call out CAP theorem tradeoffs
 
 ### Summarize 
+- Cover which problems the solution solves
+- Macro system design
+- Reasons for why big components are designed the way they are
+- How it performs
