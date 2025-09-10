@@ -7,11 +7,15 @@ Durability - Once a transaction has been committed, it will remain so
 
 3 Main Questions:
 - How is data represented?
+Columns, Key-Value, Document, Graph
+
 - How is data stored?
 - How is data transported?
 
-## How is Data Represented?
 ## How is Data Transported?
+- Does it go through caches and buffers?
+- Is it kept in a CDN or read replica?
+- TCP/UDP
 ## How is Data Stored?
 ### Vertical vs. Horizontal Scaling
 **Vertical Scaling** = This is equivalent to scaling up by improving RAM, CPU, and Disk Space. 
